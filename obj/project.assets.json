@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "TextFieldParserStandard/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/TextFieldParserStandard.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/TextFieldParserStandard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextFieldParserStandard/1.0.0": {
+      "sha512": "nUPdG2W4nIYdaka8li2QM5NFjNAyGMZTtwxV5QmRqr0Y9Ai1giYkEqyDGlEzANqZjOIoSno4x7ZZdiRyrJFe4A==",
+      "type": "package",
+      "path": "textfieldparserstandard/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/TextFieldParserStandard.dll",
+        "textfieldparserstandard.1.0.0.nupkg.sha512",
+        "textfieldparserstandard.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "TextFieldParserStandard >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Fede\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Fede\\Downloads\\Complejidad\\TPFinal_vs_base\\tpfinal.csproj",
+      "projectName": "tpfinal",
+      "projectPath": "C:\\Users\\Fede\\Downloads\\Complejidad\\TPFinal_vs_base\\tpfinal.csproj",
+      "packagesPath": "C:\\Users\\Fede\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fede\\Downloads\\Complejidad\\TPFinal_vs_base\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Fede\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "TextFieldParserStandard": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.31, 6.0.31]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.31, 6.0.31]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.31, 6.0.31]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.31, 6.0.31]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

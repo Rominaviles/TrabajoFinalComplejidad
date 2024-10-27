@@ -1,0 +1,120 @@
+C:\Users\usuario\Desktop\TPFinal\bin\Debug\net6.0-windows\tpfinal.exe
+C:\Users\usuario\Desktop\TPFinal\bin\Debug\net6.0-windows\tpfinal.deps.json
+C:\Users\usuario\Desktop\TPFinal\bin\Debug\net6.0-windows\tpfinal.runtimeconfig.json
+C:\Users\usuario\Desktop\TPFinal\bin\Debug\net6.0-windows\tpfinal.dll
+C:\Users\usuario\Desktop\TPFinal\bin\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\usuario\Desktop\TPFinal\bin\Debug\net6.0-windows\TextFieldParserStandard.dll
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.Form1.resources
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.Form2.resources
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.Consultas.resources
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.Inicio.resources
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.ListItem.resources
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.Properties.Resources.resources
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.AssemblyInfo.cs
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.CopyComplete
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.dll
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\refint\tpfinal.dll
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.genruntimeconfig.cache
+C:\Users\usuario\Desktop\TPFinal\obj\Debug\net6.0-windows\ref\tpfinal.dll
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\bin\Debug\net6.0-windows\tpfinal.exe
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\bin\Debug\net6.0-windows\tpfinal.deps.json
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\bin\Debug\net6.0-windows\tpfinal.runtimeconfig.json
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\bin\Debug\net6.0-windows\tpfinal.dll
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\bin\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\bin\Debug\net6.0-windows\TextFieldParserStandard.dll
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.AssemblyReference.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.Form1.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.Form2.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.Consultas.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.Inicio.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.ListItem.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.Properties.Resources.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.GenerateResource.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.AssemblyInfoInputs.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.AssemblyInfo.cs
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.CoreCompileInputs.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.CopyComplete
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.dll
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\refint\tpfinal.dll
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\tpfinal.genruntimeconfig.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFina_vs8\TPFinal\obj\Debug\net6.0-windows\ref\tpfinal.dll
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\bin\Debug\net6.0-windows\tpfinal.exe
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\bin\Debug\net6.0-windows\tpfinal.deps.json
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\bin\Debug\net6.0-windows\tpfinal.runtimeconfig.json
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\bin\Debug\net6.0-windows\tpfinal.dll
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\bin\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\bin\Debug\net6.0-windows\TextFieldParserStandard.dll
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.csproj.AssemblyReference.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.Form1.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.Form2.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.Consultas.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.Inicio.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.ListItem.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.Properties.Resources.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.csproj.GenerateResource.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.AssemblyInfoInputs.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.AssemblyInfo.cs
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.csproj.CoreCompileInputs.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.csproj.CopyComplete
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.dll
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\refint\tpfinal.dll
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\tpfinal.genruntimeconfig.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_base\obj\Debug\net6.0-windows\ref\tpfinal.dll
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.exe
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.deps.json
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.runtimeconfig.json
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.dll
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\bin\Debug\net6.0-windows\TextFieldParserStandard.dll
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.AssemblyReference.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Form1.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Form2.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Consultas.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Inicio.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.ListItem.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Properties.Resources.resources
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.GenerateResource.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.AssemblyInfoInputs.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.AssemblyInfo.cs
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.CoreCompileInputs.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.CopyComplete
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.dll
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\refint\tpfinal.dll
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.genruntimeconfig.cache
+C:\Users\piuliano\Desktop\CTEDA\CTEDA 2024 2do\TPFinal_vs_base\obj\Debug\net6.0-windows\ref\tpfinal.dll
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.exe
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.deps.json
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.runtimeconfig.json
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.dll
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.pdb
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\bin\Debug\net6.0-windows\TextFieldParserStandard.dll
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.AssemblyReference.cache
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Form1.resources
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Form2.resources
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Consultas.resources
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Inicio.resources
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.ListItem.resources
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Properties.Resources.resources
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.GenerateResource.cache
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.AssemblyInfoInputs.cache
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.AssemblyInfo.cs
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.CoreCompileInputs.cache
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.Up2Date
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.dll
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\refint\tpfinal.dll
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.pdb
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.genruntimeconfig.cache
+c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\ref\tpfinal.dll
