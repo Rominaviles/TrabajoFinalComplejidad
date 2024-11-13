@@ -75,7 +75,7 @@ namespace tpfinal
         //Retorna en la variable collected los procesos ordenados del de mayor prioridad al de menor prioridad de la lista datos utilizando una MaxHeap como estructura de datos soporte.
         public void PreemptivePriority(List<Proceso> datos, List<Proceso> collected)
         {
-            var maxHeap = new Heap<Proceso>((p1, p2) => p1.prioridad.CompareTo(p2.prioridad));
+            var maxHeap = new Heap<Proceso>((p1, p2) => p2.prioridad.CompareTo(p1.prioridad));
             foreach (var proceso in datos)
             {
                 maxHeap.Insert(proceso);

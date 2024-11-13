@@ -118,3 +118,53 @@ c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\ref
 c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.pdb
 c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.genruntimeconfig.cache
 c:\Users\Fede\Downloads\Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\ref\tpfinal.dll
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.exe
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.deps.json
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.runtimeconfig.json
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.dll
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.pdb
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\bin\Debug\net6.0-windows\TextFieldParserStandard.dll
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.AssemblyReference.cache
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Form1.resources
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Form2.resources
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Consultas.resources
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Inicio.resources
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.ListItem.resources
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Properties.Resources.resources
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.GenerateResource.cache
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.AssemblyInfoInputs.cache
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.AssemblyInfo.cs
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.CoreCompileInputs.cache
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.sourcelink.json
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.Up2Date
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.dll
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\refint\tpfinal.dll
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.pdb
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.genruntimeconfig.cache
+c:\Users\Fede\Desktop\Romina\Complejidad\Trabajo Final Complejidad\TPFinal_vs_base\obj\Debug\net6.0-windows\ref\tpfinal.dll
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.exe
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.deps.json
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.runtimeconfig.json
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.dll
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\bin\Debug\net6.0-windows\tpfinal.pdb
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\bin\Debug\net6.0-windows\TextFieldParserStandard.dll
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.AssemblyReference.cache
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Form1.resources
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Form2.resources
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Consultas.resources
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Inicio.resources
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.ListItem.resources
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.Properties.Resources.resources
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.GenerateResource.cache
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.AssemblyInfoInputs.cache
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.AssemblyInfo.cs
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.CoreCompileInputs.cache
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.sourcelink.json
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.csproj.Up2Date
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.dll
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\refint\tpfinal.dll
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.pdb
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\tpfinal.genruntimeconfig.cache
+c:\Users\romin\Desktop\Proyectos\Complejidad2024\TPFinal_vs_base\obj\Debug\net6.0-windows\ref\tpfinal.dll
